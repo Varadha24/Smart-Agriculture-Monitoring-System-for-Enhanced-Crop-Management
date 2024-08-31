@@ -9,3 +9,6 @@ This project focuses on tracking temperature, humidity, soil moisture, and light
 4.16*2 LCD
 5.ARDUINO MEGA2560
 6.ESP8266 WIFI MODULE
+
+Thingspeak.com : is a clous platform  which provide users to load data and visualize.
+
